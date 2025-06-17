@@ -9,7 +9,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 
 
-st.title("DIABETES ANALYSIS")
+st.markdown("DIABETES ANALYSIS")
 st.markdown("## OVERVIEW")
 
 #import my csv file
