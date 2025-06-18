@@ -3,7 +3,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
-import plotly.express as px
+import plotly_express as px
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
